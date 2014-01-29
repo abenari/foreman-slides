@@ -1041,7 +1041,7 @@
       "active": false,
       "x": 3533,
       "y": 1036,
-      "markdown": "## Community\n\n* 4+ years old\n* 250 IRC users on #theforeman\n* 60 IRC developers on #theforeman-dev\n* 140+ code contributers, Thanks!\n* 15+ translators for 6+ languages\n* ~800 users on foreman-users list\n* ~developers on foreman-dev list\n"
+      "markdown": "## Community\n\n* 4+ years old\n* 250 IRC users on \#theforeman\n* 60 IRC developers on \#theforeman-dev\n* 140+ code contributers, Thanks!\n* 15+ translators for 6+ languages\n* ~800 users on foreman-users list\n* ~developers on foreman-dev list\n"
     },
     {
       "components": [],
@@ -1069,7 +1069,7 @@
       "active": true,
       "x": 4062,
       "y": 1038,
-      "markdown": "## Get Started!\n\n* Quick-start guide on theforeman.org\n* Quick-start video series\n* foreman-users on googlegroups.com\n* #theforeman on FreeNode\n\n"
+      "markdown": "## Get Started!\n\n* Quick-start guide on theforeman.org\n* Quick-start video series\n* foreman-users on googlegroups.com\n* \#theforeman on FreeNode\n\n"
     }
   ],
   "background": "bg-custom-f2f2f2",
