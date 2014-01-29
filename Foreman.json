@@ -898,7 +898,7 @@
       "index": 16,
       "selected": false,
       "active": false,
-      "markdown": "## Provisioning\n\n* Bare metal\n* Private and Public clouds\n* PXE or Image based\n* DNS, DHCP and TFTP management via smart proxy\n* Support all major operating systems:\n \n > RHEL, CentOs, Fedora, Debian, Ubuntu, OpenSUSE, Solaris ...\n",
+      "markdown": "## Provisioning\n\n* Bare metal\n* Private and Public clouds\n* PXE or Image based\n* DNS, DHCP and TFTP management via smart proxy\n* Support all major operating systems:\n \n > RHEL, CentOS, Fedora, Debian, Ubuntu, OpenSUSE, Solaris ...\n",
       "x": 1400,
       "y": 1040
     },
@@ -942,7 +942,7 @@
       "active": false,
       "x": 1940,
       "y": 1040,
-      "markdown": "## User Management\n\n* Internal or LDAP/AD authentication\n* Role based access control (RBAC)\n\n\n## Organizations & Locations\n\n* Categories users and resources\n* Restricte access to resources\n"
+      "markdown": "## User Management\n\n* Internal or LDAP/AD authentication\n* Role based access control (RBAC)\n\n\n## Organizations & Locations\n\n* Categories users and resources\n* Restrict access to resources\n"
     },
     {
       "components": [],
@@ -956,7 +956,7 @@
       "active": false,
       "x": 2203,
       "y": 1040,
-      "markdown": "## Foreman Installer\n\n* Automate installation of Foreman, Smart Proxy, Puppet master, Apache and Passanger\n\n* Use Kafo - A new Ruby-gem that provides Puppet based installer. It is in use since Foreman 1.3, \n It has a CLI interface with progress bar, arguments for class-parameter, answare file and logging\n"
+      "markdown": "## Foreman Installer\n\n* Automate installation of Foreman, Smart Proxy, Puppet master, Apache and Passanger\n\n* Use Kafo - A new Ruby-gem that provides Puppet based installer. It is in use since Foreman 1.3, \n It has a CLI interface with progress bar, arguments for class-parameter, answer file and logging\n"
     },
     {
       "components": [],
@@ -984,7 +984,7 @@
       "active": false,
       "x": 2724,
       "y": 1043,
-      "markdown": "## Restful API\n\n\n* most of the UI actions are available in the API\n* Automatic Documentation\n* Current stable version is V1. V2 is experimental version.\n* Powerful search API that can beused as an alternative to storeconfig\n* Used by foreman CLI and Remote-Admin\n\n"
+      "markdown": "## Restful API\n\n\n* most of the UI actions are available in the API\n* Automatic Documentation\n* Current stable version is V1. V2 is experimental version.\n* Powerful search API that can be used as an alternative to storeconfig\n* Used by foreman CLI and Remote-Admin\n\n"
     },
     {
       "components": [],
@@ -996,7 +996,7 @@
       "index": 22,
       "selected": false,
       "active": false,
-      "markdown": "## Hammer CLI\n\n* A new plugable CLI tool for Foreman and Katello\n* Full CRUD, Uses API V2\n* Modeled on git with sub-commands\n* In development, available since Foreman 1.3",
+      "markdown": "## Hammer CLI\n\n* A new pluggable CLI tool for Foreman and Katello\n* Full CRUD, Uses API V2\n* Modeled on git with sub-commands\n* In development, available since Foreman 1.3",
       "x": 2989,
       "y": 1036
     },
@@ -1053,7 +1053,7 @@
       "index": 25,
       "selected": false,
       "active": false,
-      "markdown": "## Some of Foreman users\n\n* CERN\n* SpaceX\n* BBC\n* Mozilla\n* Citrix\n* Erocson\n* Symantec\n* DHL\n",
+      "markdown": "## Some of Foreman's users\n\n* CERN\n* SpaceX\n* BBC\n* Mozilla\n* Citrix\n* Erocson\n* Symantec\n* DHL\n",
       "x": 3803,
       "y": 1038
     },
@@ -1069,7 +1069,7 @@
       "active": true,
       "x": 4062,
       "y": 1038,
-      "markdown": "## Get Started!\n\n* Quick-start guid on theforeman.org\n* Quick-start videos series\n* Foreman-users on googlegroups.com\n* theforeman on FreeNode\n\n"
+      "markdown": "## Get Started!\n\n* Quick-start guide on theforeman.org\n* Quick-start video series\n* foreman-users on googlegroups.com\n* #theforeman on FreeNode\n\n"
     }
   ],
   "background": "bg-custom-f2f2f2",
