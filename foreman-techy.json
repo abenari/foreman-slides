@@ -1,0 +1,1504 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 323,
+          "y": 280,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>Foreman</font>",
+          "size": 96,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 384,
+          "y": 205,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>Introduction to</font>",
+          "size": 39,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": true,
+      "x": 560,
+      "y": 200,
+      "markdown": ""
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 240,
+          "y": 93,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Foreman's Realm<br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 295,
+          "y": 211,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "A typical system life cycle<br>",
+          "size": 39,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 132,
+          "y": 646,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>Installation</font>",
+          "size": 36,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 402,
+          "y": 604,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\">Initial&nbsp;</div><div style=\"text-align: center;\">configuration</div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 665,
+          "y": 606,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\">Updates and drift&nbsp;</div><div style=\"text-align: center;\">management</div>",
+          "selected": false,
+          "skewX": 0
+        },
+        {
+          "src": "http://i.imgur.com/jAjAhJx.png",
+          "type": "Image",
+          "x": 140,
+          "y": 366,
+          "scale": {
+            "x": 0.4766666666666667,
+            "y": 0.4766666666666667,
+            "width": 143,
+            "height": 238.33333333333334
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/ZgAVOLj.png",
+          "type": "Image",
+          "x": 453,
+          "y": 378,
+          "scale": {
+            "x": 0.37451737451737455,
+            "y": 0.37451737451737455,
+            "width": 97.00000000000001,
+            "height": 157.67181467181467
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/IODHPWt.png",
+          "type": "Image",
+          "x": 708,
+          "y": 358,
+          "scale": {
+            "x": 0.5083798882681564,
+            "y": 0.5083798882681564,
+            "width": 182,
+            "height": 185.55865921787708
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 840,
+      "y": 200,
+      "markdown": ""
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 339,
+          "y": 92,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "Foreman is<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 211,
+          "y": 213,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\">A complete life cycle management tool</div><div style=\"text-align: center;\">&nbsp;for physical and virtual servers</div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 59,
+          "y": 554,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>Provisioning</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 365,
+          "y": 554,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>Configuration</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 705,
+          "y": 554,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>Monitoring</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/A4X7ZeR.png",
+          "type": "Image",
+          "x": 759,
+          "y": 380,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/PHO9eX1.png",
+          "type": "Image",
+          "x": 444,
+          "y": 381,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/XDzagaX.png",
+          "type": "Image",
+          "x": 123,
+          "y": 380,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "markdown": "",
+      "x": 1120,
+      "y": 200
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 316,
+          "y": 96,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>Provisioning</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 327,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\">Provision on bare metal</div><font><div style=\"text-align: center;\">private or public cloud</div><div style=\"text-align: center;\">all from one interface</div><div style=\"text-align: center;\">with one process</div></font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/kQqZi86.png",
+          "type": "Image",
+          "x": 136,
+          "y": 84,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 1040,
+      "y": 320
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 293,
+          "y": 95,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>Configuration</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 205,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\">A complete configuration management&nbsp;</div><div style=\"text-align: center;\">solution including&nbsp;</div><div style=\"text-align: center;\">Puppet ENC with a built-in&nbsp;</div><div style=\"text-align: center;\">support for parameterized classes</div><div style=\"text-align: center;\">and hierarchical parameter store&nbsp;</div>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/mwRWJG2.png",
+          "type": "Image",
+          "x": 109,
+          "y": 72,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "skewX": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 1120,
+      "y": 320
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 335,
+          "y": 95,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "Monitoring<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 280,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\">Inventory and activity&nbsp;</div><font><div style=\"text-align: center;\">based on Puppet &nbsp;Chef&nbsp;</div><div style=\"text-align: center;\">reports and facts</div><div style=\"text-align: center;\">Including configuration status</div><div style=\"text-align: center;\">distribution and trends</div><br></font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/WD3qItA.png",
+          "type": "Image",
+          "x": 169,
+          "y": 77,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 1200,
+      "y": 320
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 168,
+          "y": 95,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>Foreman architecture</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/HMcYunn.png",
+          "type": "Image",
+          "x": 544,
+          "y": 437,
+          "scale": {
+            "x": 0.5673758865248227,
+            "y": 0.5673758865248227,
+            "width": 240.00000000000003,
+            "height": 171.91489361702128
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/XY36HsG.png",
+          "type": "Image",
+          "x": 445,
+          "y": 245,
+          "scale": {
+            "x": 0.6053811659192825,
+            "y": 0.6053811659192825,
+            "width": 135,
+            "height": 115.02242152466367
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/AGQKnIl.png",
+          "type": "Image",
+          "x": 669,
+          "y": 238,
+          "scale": {
+            "x": 0.4326241134751773,
+            "y": 0.4326241134751773,
+            "width": 183,
+            "height": 131.08510638297872
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/ya9t2ZK.png",
+          "type": "Image",
+          "x": 178,
+          "y": 221,
+          "scale": {
+            "x": 0.5295508274231678,
+            "y": 0.5295508274231678,
+            "width": 224,
+            "height": 160.45390070921985
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/XBEiu4u.png",
+          "type": "Image",
+          "x": 284,
+          "y": 448,
+          "scale": {
+            "x": 0.46335697399527187,
+            "y": 0.46335697399527187,
+            "width": 196,
+            "height": 140.39716312056737
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 345,
+          "y": 620,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<div style=\"text-align: center;\">Puppet /</div><div style=\"text-align: center;\">Chef</div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 220,
+          "y": 391,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font>Smart-Proxy</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 598,
+          "y": 621,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<div style=\"text-align: center;\">Compute</div><font><div style=\"text-align: center;\">Environments</div></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 679,
+          "y": 384,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font>UI , API and CLI</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 7,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 973,
+      "y": 553
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/ya9t2ZK.png",
+          "type": "Image",
+          "x": 116,
+          "y": 83,
+          "scale": {
+            "x": 0.3947990543735225,
+            "y": 0.3947990543735225,
+            "width": 167,
+            "height": 119.62411347517731
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 317,
+          "y": 103,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>Smart Proxies</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 150,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font>A Smart proxy help Foreman orchestrate<br>the process of commissioning a new host.<br>It is located on the network segment of the <br>server that perform the specific &nbsp;function. &nbsp;</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 157,
+          "y": 469,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font>Smart Proxies can control<br>DNS, DHCP, TFTP, Puppet CA and BMC<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 654,
+      "y": 461
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/XBEiu4u.png",
+          "type": "Image",
+          "x": 108,
+          "y": 58,
+          "scale": {
+            "x": 0.41843971631205673,
+            "y": 0.41843971631205673,
+            "width": 177,
+            "height": 126.7872340425532
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 283,
+          "y": 85,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>Puppet &amp; Chef</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 146,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "Reports Facts classes and environment &nbsp;are&nbsp;<br>imported from the puppet master.<br>Foreman serves as a node classifier and<br>parameter store for the puppet master.<br>Foreman can manage multiple Puppet masters<br>and Puppet environments.<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 652,
+      "y": 533
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/HMcYunn.png",
+          "type": "Image",
+          "x": 49,
+          "y": 76,
+          "scale": {
+            "x": 0.34515366430260047,
+            "y": 0.34515366430260047,
+            "width": 146,
+            "height": 104.58156028368795
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 195,
+          "y": 84,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>Compute Resources</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 209,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font>Foreman manages bare metal systems<br>as well as RHEV-M, oVirt, EC2, VMware,<br>OpenStack, &nbsp;RackSpace, Google Compute<br>Engine and libvirt.<br></font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/73P8cxD.png",
+          "type": "Image",
+          "x": 565,
+          "y": 461,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/ApxsYHk.png",
+          "type": "Image",
+          "x": 660,
+          "y": 560,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/WsGDGzt.png",
+          "type": "Image",
+          "x": 260,
+          "y": 560,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/fNYGUoy.png",
+          "type": "Image",
+          "x": 480,
+          "y": 560,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/gO67adT.png",
+          "type": "Image",
+          "x": 220,
+          "y": 460,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/rXPQdrJ.png",
+          "type": "Image",
+          "x": 762,
+          "y": 455,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/Kt8hwR4.png",
+          "type": "Image",
+          "x": 390,
+          "y": 463,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 651,
+      "y": 609
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/HMcYunn.png",
+          "type": "Image",
+          "x": 52,
+          "y": 67,
+          "scale": {
+            "x": 0.34515366430260047,
+            "y": 0.34515366430260047,
+            "width": 146,
+            "height": 104.58156028368795
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 195,
+          "y": 84,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "Compute Resources<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 94,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\">Foreman offers a unified interface to all the major</div><div style=\"text-align: center;\">compute providers&nbsp;</div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 122,
+          "y": 370,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<ul><li><span style=\"line-height: normal;\">Using Fog to abstract the communication details</span><br></li><li><span style=\"line-height: normal;\">Compute profiles to abstract hardware flavors</span><br></li><li><span style=\"line-height: normal;\">Host-groups to describe the OS &amp; puppet config</span></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 652,
+      "y": 684
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 321,
+          "y": 85,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>Host groups</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 332,
+          "y": 474,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<ul><li><span style=\"line-height: normal;\">Operating System</span></li><li><span style=\"line-height: normal;\">Puppet configuration</span></li><li><span style=\"line-height: normal;\">Compute</span><span style=\"line-height: normal;\">&nbsp;profile</span></li></ul>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 127,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "A host-group is hierarchical system definition.<br>Foreman can provision systems or images from a<br>host-group on each of the compute resources.<br>A host-group contains definition of:&nbsp;<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "markdown": "\n",
+      "x": 651,
+      "y": 758
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 270,
+          "y": 84,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>Image Creation</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 145,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font>Foreman can create images&nbsp;from host-groups<br>on each compute provider.<br>Automate image creation based on policies:<br>If package updates takes too long, it's probably<br>a good time to create an upto-date image.<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 720,
+      "y": 900
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 101,
+          "y": 237,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<ul><li><span style=\"line-height: normal;\">Bare metal, P</span><span style=\"line-height: normal;\">rivate or Public clouds</span></li><li><span style=\"line-height: normal;\">PXE or Image based</span><br></li><li><span style=\"line-height: normal;\">User-data or SSH to run initialization scripts</span></li><li><span style=\"line-height: normal;\">DNS, DHCP and TFTP management via smart proxy</span><br></li><li><span style=\"line-height: normal;\">Support all major operating systems:</span><br></li></ul>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 203,
+          "y": 527,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "RHEL<br>CentOS<br>Fedora<br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/VspsKlH.png",
+          "type": "Image",
+          "x": 150,
+          "y": 545,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/PWOtPXa.png",
+          "type": "Image",
+          "x": 145,
+          "y": 630,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/cD2uVxE.png",
+          "type": "Image",
+          "x": 658,
+          "y": 539,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/kdZyO6O.png",
+          "type": "Image",
+          "x": 147,
+          "y": 588,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/H2a7NRk.png",
+          "type": "Image",
+          "x": 659,
+          "y": 583,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/df4uufY.png",
+          "type": "Image",
+          "x": 396,
+          "y": 536,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/fmb6t9I.png",
+          "type": "Image",
+          "x": 398,
+          "y": 579,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 436,
+          "y": 523,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "Debian<br>Ubuntu<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 700,
+          "y": 526,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font>OpenSUSE<br>Solaris<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 315,
+          "y": 85,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>Provisioning</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "markdown": "",
+      "x": 980,
+      "y": 900
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 288,
+          "y": 83,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>Orchestration<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 228,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<ul><li><span style=\"line-height: normal;\">DNS, DHCP</span><br></li><li><span style=\"line-height: normal;\">Certificate signing</span><br></li><li><span style=\"line-height: normal;\">Virtual machine setup</span><br></li><li><span style=\"line-height: normal;\">Support Rollbacks!</span><br></li><li><span style=\"line-height: normal;\">Handle conflicts (IP already in use)</span><br></li><li><span style=\"line-height: normal;\">Extendable - add your own!</span><br></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "markdown": "\n",
+      "x": 1240,
+      "y": 900
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 120,
+          "y": 331,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 248,
+          "y": 85,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "Enterprise ready<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 214,
+          "y": 201,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<b>User Management:</b><br><ul><li><span style=\"line-height: normal;\">Internal or LDAP/AD authentication</span><br></li><li><span style=\"line-height: normal;\">Role based access control (RBAC)</span><br></li></ul>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 212,
+          "y": 388,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<b>Organizations and Locations:</b><br><ul><li><span style=\"line-height: normal;\">Categories users and resources</span><br></li><li><span style=\"line-height: normal;\">Restrict access to resources</span><br></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 1500,
+      "y": 900,
+      "markdown": "\n\n\n"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 220,
+          "y": 178,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<ul><li><span style=\"line-height: normal;\">Katello</span><br></li><li><span style=\"line-height: normal;\">Discovery</span><br></li><li><span style=\"line-height: normal;\">Hooks</span><br></li><li><span style=\"line-height: normal;\">Radiator</span><br></li><li><span style=\"line-height: normal;\">Hubot_notify</span><br></li><li><span style=\"line-height: normal;\">Column_view</span><br></li><li><span style=\"line-height: normal;\">Audited notification</span><br></li><li><span style=\"line-height: normal;\">Puppetdb_foreman</span><br></li><li><span style=\"line-height: normal;\">Resources</span><br></li><li><span style=\"line-height: normal;\">and many more see up to date list in</span><br></li></ul><br><a href=\"http://projects.theforeman.org/projects/foreman/wiki/List_of_Plugins\">List of plugins in the wiki page</a><br><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 126,
+          "y": 26,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>Plugin infrastructure</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 1760,
+      "y": 900,
+      "markdown": ""
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 187,
+          "y": 272,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<ul><li><span style=\"line-height: normal;\">4+ years old</span><br></li><li><span style=\"line-height: normal;\">250 IRC users on #theforeman</span><br></li><li><span style=\"line-height: normal;\">60 IRC developers on #theforeman-dev</span><br></li><li><span style=\"line-height: normal;\">140+ code contributors, Thanks!</span><br></li><li><span style=\"line-height: normal;\">15+ translators for 6+ languages</span><br></li><li><span style=\"line-height: normal;\">~800 users on foreman-users list</span><br></li><li><span style=\"line-height: normal;\">~developers on foreman-dev list</span><br></li></ul>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 327,
+          "y": 85,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>Community</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "x": 2020,
+      "y": 900,
+      "markdown": "\n"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 121,
+          "y": 84,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "Some of Foreman's users<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 422,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<ul><li><span style=\"line-height: normal;\">CERN</span><br></li><li><span style=\"line-height: normal;\">SpaceX</span><br></li><li><span style=\"line-height: normal;\">BBC</span><br></li><li><span style=\"line-height: normal;\">Mozilla</span><br></li><li><span style=\"line-height: normal;\">Citrix</span><br></li><li><span style=\"line-height: normal;\">Ericson</span><br></li><li><span style=\"line-height: normal;\">Symantec</span><br></li><li><span style=\"line-height: normal;\">DHL</span><br></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 18,
+      "selected": false,
+      "active": false,
+      "markdown": "",
+      "x": 2280,
+      "y": 900
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 208,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<ul><li><span style=\"line-height: normal;\">Quick-start guide on theforeman.org</span><br></li><li><span style=\"line-height: normal;\">Quick-start video series</span><br></li><li><span style=\"line-height: normal;\">foreman-users on googlegroups.com</span><br></li><li><span style=\"line-height: normal;\">#theforeman on FreeNode</span><br></li></ul>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 315,
+          "y": 84,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>Get Started!</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 12,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 19,
+      "selected": false,
+      "active": false,
+      "x": 1815,
+      "y": 447,
+      "markdown": "",
+      "background": "bg-default"
+    }
+  ],
+  "background": "bg-custom-f2f2f2",
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 323,
+        "y": 280,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font>Foreman</font>",
+        "size": 96,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 384,
+        "y": 205,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font>Introduction to</font>",
+        "size": 39,
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 0,
+    "selected": false,
+    "active": true,
+    "x": 560,
+    "y": 200,
+    "markdown": ""
+  },
+  "fileName": "Foreman",
+  "surface": "img:http://i.imgur.com/RAwUpht.png",
+  "customStylesheet": ".strut-surface .themedArea h1, \n.strut-surface .themedArea h2,\n.strut-surface .themedArea h3,\n.strut-surface .themedArea h4,\n.strut-surface .themedArea h5,\n.strut-surface .themedArea h6 {\n  margin: 60px 0 120px 0;\n  color: #333;\n  font-family: \"Lato\", sans-serif;\n  line-height: 0.9em;\n  letter-spacing: 0.02em;\n  text-transform: none;\n  text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2);\n}",
+  "deckVersion": "1.0",
+  "cannedTransition": "coverflow",
+  "customBackgrounds": {
+    "bgs": [
+      {
+        "klass": "bg-custom-f2f2f2",
+        "style": "#f2f2f2"
+      }
+    ]
+  },
+  "overviewX": 1390,
+  "overviewY": 550
+}
