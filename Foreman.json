@@ -274,8 +274,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 2,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "markdown": "",
       "x": 1120,
       "y": 200
@@ -748,6 +748,90 @@
           "size": 36,
           "text": "<font>Foreman manages bare metal systems<br>as well as RHEV-M, oVirt, EC2, VMware,<br>OpenStack, &nbsp;RackSpace, Google Compute<br>Engine and libvirt.<br></font>",
           "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/73P8cxD.png",
+          "type": "Image",
+          "x": 565,
+          "y": 461,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/ApxsYHk.png",
+          "type": "Image",
+          "x": 660,
+          "y": 560,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/WsGDGzt.png",
+          "type": "Image",
+          "x": 260,
+          "y": 560,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/fNYGUoy.png",
+          "type": "Image",
+          "x": 480,
+          "y": 560,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/gO67adT.png",
+          "type": "Image",
+          "x": 220,
+          "y": 460,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/rXPQdrJ.png",
+          "type": "Image",
+          "x": 762,
+          "y": 455,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/Kt8hwR4.png",
+          "type": "Image",
+          "x": 390,
+          "y": 463,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
         }
       ],
       "z": 0,
@@ -771,8 +855,8 @@
       "index": 10,
       "selected": false,
       "active": false,
-      "x": 587,
-      "y": 1014,
+      "x": 580,
+      "y": 1020,
       "markdown": "## Inventory\n\n\n* Automatically collects your system inventory\n* Easy to browse and search through your inventory\n* Fact base permissions\n* Manage sets of host by fact values\n* Graphs!"
     },
     {
@@ -793,15 +877,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 1,
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
       "index": 11,
       "selected": false,
       "active": false,
-      "x": 587,
-      "y": 1175
+      "x": 656,
+      "y": 1066
     },
     {
       "components": [],
@@ -813,8 +897,8 @@
       "index": 12,
       "selected": false,
       "active": false,
-      "x": 858,
-      "y": 1016,
+      "x": 860,
+      "y": 1020,
       "markdown": "## Reports\n\n* Dashboard for all your Puppet hosts\n* Detailed log of puppet actions\n* Simple search through the log\n* Summary emails\n* Alerts through email and API"
     },
     {
@@ -835,15 +919,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 1,
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
       "index": 13,
       "selected": false,
       "active": false,
-      "x": 857,
-      "y": 1175
+      "x": 933,
+      "y": 1059
     },
     {
       "components": [],
@@ -877,7 +961,7 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 1,
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
@@ -885,11 +969,148 @@
       "selected": false,
       "active": false,
       "markdown": "",
-      "x": 1131,
-      "y": 1175
+      "x": 1202,
+      "y": 1054
     },
     {
-      "components": [],
+      "components": [
+        {
+          "TextBox": {},
+          "x": 92,
+          "y": 214,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<ul><li><span style=\"line-height: normal;\">Bare metal</span><br></li><li><span style=\"line-height: normal;\">Private and Public clouds</span><br></li><li><span style=\"line-height: normal;\">PXE or Image based</span><br></li><li><span style=\"line-height: normal;\">DNS, DHCP and TFTP management via smart proxy</span><br></li><li><span style=\"line-height: normal;\">Support all major operating systems:</span><br></li></ul>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 209,
+          "y": 477,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "RHEL<br>CentOS<br>Fedora<br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/VspsKlH.png",
+          "type": "Image",
+          "x": 156,
+          "y": 495,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/PWOtPXa.png",
+          "type": "Image",
+          "x": 151,
+          "y": 580,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/cD2uVxE.png",
+          "type": "Image",
+          "x": 664,
+          "y": 489,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/kdZyO6O.png",
+          "type": "Image",
+          "x": 153,
+          "y": 538,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/H2a7NRk.png",
+          "type": "Image",
+          "x": 665,
+          "y": 533,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/df4uufY.png",
+          "type": "Image",
+          "x": 402,
+          "y": 486,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/fmb6t9I.png",
+          "type": "Image",
+          "x": 404,
+          "y": 529,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 442,
+          "y": 473,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "Debian<br>Ubuntu<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 706,
+          "y": 476,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font>OpenSUSE<br>Solaris<br></font>",
+          "selected": false
+        }
+      ],
       "z": 0,
       "impScale": 3,
       "rotateX": 0,
@@ -898,7 +1119,7 @@
       "index": 16,
       "selected": false,
       "active": false,
-      "markdown": "## Provisioning\n\n* Bare metal\n* Private and Public clouds\n* PXE or Image based\n* DNS, DHCP and TFTP management via smart proxy\n* Support all major operating systems:\n \n > RHEL, CentOS, Fedora, Debian, Ubuntu, OpenSUSE, Solaris ...\n",
+      "markdown": "## Provisioning\n",
       "x": 1400,
       "y": 1040
     },
@@ -1065,8 +1286,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 26,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "x": 4062,
       "y": 1038,
       "markdown": "## Get Started!\n\n* Quick-start guide on theforeman.org\n* Quick-start video series\n* foreman-users on googlegroups.com\n* *#theforeman* on FreeNode\n\n"
@@ -1074,18 +1295,120 @@
   ],
   "background": "bg-custom-f2f2f2",
   "activeSlide": {
-    "components": [],
+    "components": [
+      {
+        "TextBox": {},
+        "x": 339,
+        "y": 92,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 72,
+        "text": "Foreman is<br>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 211,
+        "y": 213,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<div style=\"text-align: center;\">A complete life cycle management tool</div><div style=\"text-align: center;\">&nbsp;for physical and virtual servers</div>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 59,
+        "y": 554,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 48,
+        "text": "<font>Provisioning</font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 365,
+        "y": 554,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 48,
+        "text": "<font>Configuration</font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 705,
+        "y": 554,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 48,
+        "text": "<font>Monitoring</font>",
+        "selected": false
+      },
+      {
+        "src": "http://i.imgur.com/A4X7ZeR.png",
+        "type": "Image",
+        "x": 759,
+        "y": 380,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "src": "http://i.imgur.com/PHO9eX1.png",
+        "type": "Image",
+        "x": 444,
+        "y": 381,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "src": "http://i.imgur.com/XDzagaX.png",
+        "type": "Image",
+        "x": 123,
+        "y": 380,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "imageType": "PNG",
+        "selected": false
+      }
+    ],
     "z": 0,
     "impScale": 3,
     "rotateX": 0,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 26,
+    "index": 2,
     "selected": true,
     "active": true,
-    "x": 4062,
-    "y": 1038,
-    "markdown": "## Get Started!\n\n* Quick-start guid on theforeman.org\n* Quick-start videos series\n* Foreman-users on googlegroups.com\n* theforeman on FreeNode\n\n"
+    "markdown": "",
+    "x": 1120,
+    "y": 200
   },
   "fileName": "Foreman",
   "surface": "img:http://i.imgur.com/RAwUpht.png",
@@ -1100,6 +1423,6 @@
       }
     ]
   },
-  "overviewX": 2334,
-  "overviewY": 687.5
+  "overviewX": 2310.5,
+  "overviewY": 633
 }
