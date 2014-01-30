@@ -10,7 +10,7 @@ Most of the slides are in markdown, edit the markdown.
 
 ## Using the slides
 
-Simply press the green "Impress" button (needs internet connection).
+Simply press the green "Impress" or "bespoke" button (needs internet connection).
 To use off-line press Ctrl-S in the browser once in display mode, and save localy.
 
 ## Handsout

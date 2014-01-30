@@ -58,7 +58,7 @@
         },
         {
           "TextBox": {},
-          "x": 295,
+          "x": 313,
           "y": 211,
           "scale": {
             "x": 1,
@@ -66,7 +66,7 @@
           },
           "type": "TextBox",
           "text": "A typical system life cycle<br>",
-          "size": 39,
+          "size": 36,
           "selected": false
         },
         {
@@ -274,8 +274,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 2,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "markdown": "",
       "x": 1120,
       "y": 200
@@ -283,36 +283,10 @@
     {
       "components": [
         {
-          "TextBox": {},
-          "x": 316,
-          "y": 96,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 72,
-          "text": "<font>Provisioning</font>",
-          "selected": false
-        },
-        {
-          "TextBox": {},
-          "x": 327,
-          "y": 256,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 36,
-          "text": "<div style=\"text-align: center;\">Provision on bare metal</div><font><div style=\"text-align: center;\">private or public cloud</div><div style=\"text-align: center;\">all from one interface</div><div style=\"text-align: center;\">with one process</div></font>",
-          "selected": false
-        },
-        {
           "src": "http://i.imgur.com/kQqZi86.png",
           "type": "Image",
-          "x": 136,
-          "y": 84,
+          "x": 123,
+          "y": 59,
           "scale": {
             "x": 1,
             "y": 1
@@ -330,41 +304,16 @@
       "selected": false,
       "active": false,
       "x": 1040,
-      "y": 320
+      "y": 320,
+      "markdown": "## Provisioning\n\n> Provision on bare metal\n> private or public cloud\n> all from one interface\n> with one process\n"
     },
     {
       "components": [
         {
-          "TextBox": {},
-          "x": 293,
-          "y": 95,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 72,
-          "text": "<font>Configuration</font>",
-          "selected": false
-        },
-        {
-          "TextBox": {},
-          "x": 205,
-          "y": 256,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 36,
-          "text": "<div style=\"text-align: center;\">A complete configuration management&nbsp;</div><div style=\"text-align: center;\">solution including&nbsp;</div><div style=\"text-align: center;\">Puppet ENC with a built-in&nbsp;</div><div style=\"text-align: center;\">support for parameterized classes</div><div style=\"text-align: center;\">and hierarchical parameter store&nbsp;</div>",
-          "selected": false
-        },
-        {
           "src": "http://i.imgur.com/mwRWJG2.png",
           "type": "Image",
           "x": 109,
-          "y": 72,
+          "y": 44,
           "scale": {
             "x": 1,
             "y": 1
@@ -383,41 +332,16 @@
       "selected": false,
       "active": false,
       "x": 1120,
-      "y": 320
+      "y": 320,
+      "markdown": "## Configuration\n\n> A complete configuration management \n> solution including \n> Puppet ENC with a built-in \n> support for parameterized classes\n> and hierarchical parameter store "
     },
     {
       "components": [
         {
-          "TextBox": {},
-          "x": 335,
-          "y": 95,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 72,
-          "text": "Monitoring<br>",
-          "selected": false
-        },
-        {
-          "TextBox": {},
-          "x": 280,
-          "y": 256,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 36,
-          "text": "<div style=\"text-align: center;\">Inventory and activity&nbsp;</div><font><div style=\"text-align: center;\">based on Puppet &nbsp;Chef&nbsp;</div><div style=\"text-align: center;\">reports and facts</div><div style=\"text-align: center;\">Including configuration status</div><div style=\"text-align: center;\">distribution and trends</div><br></font>",
-          "selected": false
-        },
-        {
           "src": "http://i.imgur.com/WD3qItA.png",
           "type": "Image",
-          "x": 169,
-          "y": 77,
+          "x": 153,
+          "y": 50,
           "scale": {
             "x": 1,
             "y": 1
@@ -435,7 +359,8 @@
       "selected": false,
       "active": false,
       "x": 1200,
-      "y": 320
+      "y": 320,
+      "markdown": "## Monitoring\n\n\n> Inventory and activity \n> based on Puppet and Chef \n> reports and facts\n> Including configuration status\n> distribution and trends\n"
     },
     {
       "components": [
@@ -524,15 +449,15 @@
         },
         {
           "TextBox": {},
-          "x": 345,
-          "y": 620,
+          "x": 298,
+          "y": 618,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
           "size": 24,
-          "text": "<div style=\"text-align: center;\">Puppet /</div><div style=\"text-align: center;\">Chef</div>",
+          "text": "<div style=\"text-align: center;\">Configuration</div><div style=\"text-align: center;\">Management</div>",
           "selected": false
         },
         {
@@ -591,8 +516,8 @@
         {
           "src": "http://i.imgur.com/ya9t2ZK.png",
           "type": "Image",
-          "x": 116,
-          "y": 83,
+          "x": 102,
+          "y": 54,
           "scale": {
             "x": 0.3947990543735225,
             "y": 0.3947990543735225,
@@ -600,45 +525,6 @@
             "height": 119.62411347517731
           },
           "imageType": "PNG",
-          "selected": false
-        },
-        {
-          "TextBox": {},
-          "x": 317,
-          "y": 103,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 72,
-          "text": "<font>Smart Proxies</font>",
-          "selected": false
-        },
-        {
-          "TextBox": {},
-          "x": 150,
-          "y": 256,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 36,
-          "text": "<font>A Smart proxy help Foreman orchestrate<br>the process of commissioning a new host.<br>It is located on the network segment of the <br>server that perform the specific &nbsp;function. &nbsp;</font>",
-          "selected": false
-        },
-        {
-          "TextBox": {},
-          "x": 157,
-          "y": 469,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 36,
-          "text": "<font>Smart Proxies can control<br>DNS, DHCP, TFTP, Puppet CA and BMC<br></font>",
           "selected": false
         }
       ],
@@ -651,15 +537,16 @@
       "selected": false,
       "active": false,
       "x": 654,
-      "y": 461
+      "y": 461,
+      "markdown": "## Smart-proxies\n\n> A Smart proxy help Foreman orchestrate\n> the process of commissioning a new host.\n> It is located on the network segment of the \n> server that perform the specific  function.  \n> Smart Proxies can control\n> DNS, DHCP, TFTP, Puppet CA and BMC"
     },
     {
       "components": [
         {
           "src": "http://i.imgur.com/XBEiu4u.png",
           "type": "Image",
-          "x": 108,
-          "y": 58,
+          "x": 31,
+          "y": 56,
           "scale": {
             "x": 0.41843971631205673,
             "y": 0.41843971631205673,
@@ -667,32 +554,6 @@
             "height": 126.7872340425532
           },
           "imageType": "PNG",
-          "selected": false
-        },
-        {
-          "TextBox": {},
-          "x": 283,
-          "y": 85,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 72,
-          "text": "<font>Puppet &amp; Chef</font>",
-          "selected": false
-        },
-        {
-          "TextBox": {},
-          "x": 146,
-          "y": 256,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 36,
-          "text": "Reports Facts classes and environment &nbsp;are&nbsp;<br>imported from the puppet master.<br>Foreman serves as a node classifier and<br>parameter store for the puppet master.<br>Foreman can manage multiple Puppet masters<br>and Puppet environments.<br>",
           "selected": false
         }
       ],
@@ -705,15 +566,16 @@
       "selected": false,
       "active": false,
       "x": 652,
-      "y": 533
+      "y": 533,
+      "markdown": "## Config Management\n\n\n> Reports, facts, classes and environment are\n> imported from the Puppet Master / Chef Server.\n> Foreman serves as a node classifier and \n> parameter store for the puppet master.\n> Foreman can manage multiple Puppet masters\n> and Puppet environments."
     },
     {
       "components": [
         {
           "src": "http://i.imgur.com/HMcYunn.png",
           "type": "Image",
-          "x": 49,
-          "y": 76,
+          "x": 34,
+          "y": 71,
           "scale": {
             "x": 0.34515366430260047,
             "y": 0.34515366430260047,
@@ -721,32 +583,6 @@
             "height": 104.58156028368795
           },
           "imageType": "PNG",
-          "selected": false
-        },
-        {
-          "TextBox": {},
-          "x": 195,
-          "y": 84,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 72,
-          "text": "<font>Compute Resources</font>",
-          "selected": false
-        },
-        {
-          "TextBox": {},
-          "x": 209,
-          "y": 256,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 36,
-          "text": "<font>Foreman manages bare metal systems<br>as well as RHEV-M, oVirt, EC2, VMware,<br>OpenStack, &nbsp;RackSpace, Google Compute<br>Engine and libvirt.<br></font>",
           "selected": false
         },
         {
@@ -843,7 +679,8 @@
       "selected": false,
       "active": false,
       "x": 656,
-      "y": 613
+      "y": 613,
+      "markdown": "## Compute resources\n\n> Foreman manages bare metal systems\n> as well as RHEV-M, oVirt, EC2, VMware,\n> OpenStack,  RackSpace, Google Compute\n> Engine and libvirt.\n"
     },
     {
       "components": [],
@@ -924,8 +761,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 13,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "x": 933,
       "y": 1059
     },
@@ -1163,7 +1000,7 @@
       "active": false,
       "x": 1940,
       "y": 1040,
-      "markdown": "## User Management\n\n* Internal or LDAP/AD authentication\n* Role based access control (RBAC)\n\n\n## Organizations & Locations\n\n* Categories users and resources\n* Restrict access to resources\n"
+      "markdown": "## Enterprise ready\n\n### User management\n\n* Internal or LDAP/AD authentication\n* Role based access control (RBAC)\n\n\n### Organizations & Locations\n\n* Categories users and resources\n* Restrict access to resources\n"
     },
     {
       "components": [],
@@ -1177,7 +1014,7 @@
       "active": false,
       "x": 2203,
       "y": 1040,
-      "markdown": "## Foreman Installer\n\n* Automate installation of Foreman, Smart Proxy, Puppet master, Apache and Passanger\n\n* Use Kafo - A new Ruby-gem that provides Puppet based installer. It is in use since Foreman 1.3, \n It has a CLI interface with progress bar, arguments for class-parameter, answer file and logging\n"
+      "markdown": "## Foreman Installer\n\n> Automate installation of Foreman, Smart Proxy, Puppet master, Apache and Passanger\n\n> Use Kafo - A new Ruby-gem that provides Puppet based installer. It is in use since Foreman 1.3, \n It has a CLI interface with progress bar, arguments for class-parameter, answer file and logging\n"
     },
     {
       "components": [],
@@ -1191,7 +1028,7 @@
       "active": false,
       "x": 2464,
       "y": 1039,
-      "markdown": "## Plugin Infrastructure\n\n* katello\n* discovery\n* hooks\n* radiator\n* hubot_notify\n* column_view\n* audited notification\n* puppetdb_foreman\n* resources\n* and many more see upto date list in\n\n[List of plugins in the wiki page ](http://projects.theforeman.org/projects/foreman/wiki/List_of_Plugins)\n"
+      "markdown": "## Plugin Infrastructure\n\n* Katello\n* Discovery\n* Hooks\n* Radiator\n* Hubot_notify\n* Column_view\n* Audited notification\n* Puppetdb_foreman\n* Resources\n* and many more see upto date list in\n\n[List of plugins in the wiki page ](http://projects.theforeman.org/projects/foreman/wiki/List_of_Plugins)\n"
     },
     {
       "components": [],
@@ -1262,7 +1099,7 @@
       "active": false,
       "x": 3533,
       "y": 1036,
-      "markdown": "## Community\n\n* 4+ years old\n* 250 IRC users on *#theforeman*\n* 60 IRC developers on *#theforeman-dev*\n* 140+ code contributers, Thanks!\n* 15+ translators for 6+ languages\n* ~800 users on foreman-users list\n* ~developers on foreman-dev list\n"
+      "markdown": "## Community\n\n* 4+ years old\n* 260 IRC users on *#theforeman*\n* 60 IRC developers on *#theforeman-dev*\n* 145+ code contributers, Thanks!\n* 15+ translators for 6+ languages\n* ~850 users on foreman-users list\n* ~270 developers on foreman-dev list\n\n"
     },
     {
       "components": [],
@@ -1274,7 +1111,7 @@
       "index": 25,
       "selected": false,
       "active": false,
-      "markdown": "## Some of Foreman's users\n\n* CERN\n* SpaceX\n* BBC\n* Mozilla\n* Citrix\n* Erocson\n* Symantec\n* DHL\n",
+      "markdown": "## Some of Foreman's users\n\n* CERN\n* SpaceX\n* BBC\n* Mozilla\n* Citrix\n* Ericson\n* Symantec\n* DHL\n",
       "x": 3803,
       "y": 1038
     },
@@ -1297,122 +1134,34 @@
   "activeSlide": {
     "components": [
       {
-        "TextBox": {},
-        "x": 339,
-        "y": 92,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 72,
-        "text": "Foreman is<br>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 211,
-        "y": 213,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 36,
-        "text": "<div style=\"text-align: center;\">A complete life cycle management tool</div><div style=\"text-align: center;\">&nbsp;for physical and virtual servers</div>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 59,
-        "y": 554,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 48,
-        "text": "<font>Provisioning</font>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 365,
-        "y": 554,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 48,
-        "text": "<font>Configuration</font>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 705,
-        "y": 554,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 48,
-        "text": "<font>Monitoring</font>",
-        "selected": false
-      },
-      {
-        "src": "http://i.imgur.com/A4X7ZeR.png",
+        "src": "http://i.imgur.com/Wsd1R8t.png",
         "type": "Image",
-        "x": 759,
-        "y": 380,
+        "x": 73,
+        "y": 14,
         "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "imageType": "PNG",
-        "selected": false
-      },
-      {
-        "src": "http://i.imgur.com/PHO9eX1.png",
-        "type": "Image",
-        "x": 444,
-        "y": 381,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "imageType": "PNG",
-        "selected": false
-      },
-      {
-        "src": "http://i.imgur.com/XDzagaX.png",
-        "type": "Image",
-        "x": 123,
-        "y": 380,
-        "scale": {
-          "x": 1,
-          "y": 1
+          "x": 0.7480851063829788,
+          "y": 0.7480851063829788,
+          "width": 879,
+          "height": 740.6042553191489
         },
         "imageType": "PNG",
         "selected": false
       }
     ],
     "z": 0,
-    "impScale": 3,
+    "impScale": 1,
     "rotateX": 0,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 2,
+    "index": 13,
     "selected": true,
     "active": true,
-    "markdown": "",
-    "x": 1120,
-    "y": 200
+    "x": 933,
+    "y": 1059
   },
   "fileName": "Foreman",
   "surface": "img:http://i.imgur.com/RAwUpht.png",
-  "customStylesheet": ".strut-surface .themedArea h1, \n.strut-surface .themedArea h2,\n.strut-surface .themedArea h3,\n.strut-surface .themedArea h4,\n.strut-surface .themedArea h5,\n.strut-surface .themedArea h6 {\n  margin: 60px 0 120px 0;\n  color: #333;\n  font-family: \"Lato\", sans-serif;\n  line-height: 0.9em;\n  letter-spacing: 0.02em;\n  text-transform: none;\n  text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2);\n}",
+  "customStylesheet": ".strut-surface .themedArea h1, \n.strut-surface .themedArea h2,\n.strut-surface .themedArea h3,\n.strut-surface .themedArea h4,\n.strut-surface .themedArea h5,\n.strut-surface .themedArea h6\n {\n  margin: 40px 0 20px 0;\n  color: #333;\n  font-family: \"Lato\", sans-serif;\n  line-height: 0.9em;\n  letter-spacing: 0.02em;\n  text-transform: none;\n  text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2);\n}\n\n.strut-surface .themedArea h1, \n.strut-surface .themedArea h2{\n  margin: 60px 0 100px 0;\n}\n  ",
   "deckVersion": "1.0",
   "cannedTransition": "coverflow",
   "customBackgrounds": {
