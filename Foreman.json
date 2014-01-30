@@ -17,15 +17,15 @@
         },
         {
           "TextBox": {},
-          "x": 384,
-          "y": 205,
+          "x": 347,
+          "y": 597,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
-          "text": "<font>Introduction to</font>",
-          "size": 39,
+          "size": 24,
+          "text": "<font face=\"Lato\">@ohadlevy<br>ohadlevy@gmail.com<br></font>",
           "selected": false
         }
       ],
@@ -274,8 +274,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 2,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "markdown": "",
       "x": 1120,
       "y": 200
@@ -297,14 +297,14 @@
         },
         {
           "TextBox": {},
-          "x": 327,
-          "y": 256,
+          "x": 310,
+          "y": 271,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
-          "size": 36,
+          "size": 40,
           "text": "<div style=\"text-align: center;\">Provision on bare metal</div><font><div style=\"text-align: center;\">private or public cloud</div><div style=\"text-align: center;\">all from one interface</div><div style=\"text-align: center;\">with one process</div></font>",
           "selected": false
         },
@@ -403,7 +403,7 @@
         {
           "TextBox": {},
           "x": 280,
-          "y": 256,
+          "y": 257,
           "scale": {
             "x": 1,
             "y": 1
@@ -658,8 +658,8 @@
         {
           "src": "http://i.imgur.com/XBEiu4u.png",
           "type": "Image",
-          "x": 108,
-          "y": 58,
+          "x": 43,
+          "y": 54,
           "scale": {
             "x": 0.41843971631205673,
             "y": 0.41843971631205673,
@@ -671,15 +671,15 @@
         },
         {
           "TextBox": {},
-          "x": 283,
-          "y": 85,
+          "x": 206,
+          "y": 84,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
           "size": 72,
-          "text": "<font>Puppet &amp; Chef</font>",
+          "text": "<font>Config Management</font>",
           "selected": false
         },
         {
@@ -692,7 +692,7 @@
           },
           "type": "TextBox",
           "size": 36,
-          "text": "Reports Facts classes and environment &nbsp;are&nbsp;<br>imported from the puppet master.<br>Foreman serves as a node classifier and<br>parameter store for the puppet master.<br>Foreman can manage multiple Puppet masters<br>and Puppet environments.<br>",
+          "text": "Reports, facts, classes and environment &nbsp;are&nbsp;<br>imported from the Puppet Master / Chef Server.<br>Foreman serves as a node classifier and<br>parameter store for the puppet master.<br>Foreman can manage multiple Puppet masters<br>and Puppet environments.<br>",
           "selected": false
         }
       ],
@@ -857,7 +857,7 @@
       "active": false,
       "x": 580,
       "y": 1020,
-      "markdown": "## Inventory\n\n\n* Automatically collects your system inventory\n* Easy to browse and search through your inventory\n* Fact base permissions\n* Manage sets of host by fact values\n* Graphs!"
+      "markdown": "## Inventory\n\n\n* Automatically collects your system inventory\n* Easy to browse and search through your inventory\n* Fact base permissions\n* Graphs!"
     },
     {
       "components": [
@@ -885,7 +885,8 @@
       "selected": false,
       "active": false,
       "x": 656,
-      "y": 1066
+      "y": 1066,
+      "markdown": ""
     },
     {
       "components": [],
@@ -899,7 +900,7 @@
       "active": false,
       "x": 860,
       "y": 1020,
-      "markdown": "## Reports\n\n* Dashboard for all your Puppet hosts\n* Detailed log of puppet actions\n* Simple search through the log\n* Summary emails\n* Alerts through email and API"
+      "markdown": "## Reports\n\n* Dashboard for all your hosts\n* Detailed log of actions (applied, failed, etc)\n* advanced search through the logs\n* Summary emails\n* Alerts through email and API\n* Custom events"
     },
     {
       "components": [
@@ -1222,6 +1223,174 @@
       "y": 1036
     },
     {
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 23,
+      "selected": false,
+      "active": false,
+      "markdown": "# Deploying Openstack\n\n* Customized plugin to help deploying Openstack\n* Uses the upstream stackforge puppet modules\n"
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/DjtCsJl.png",
+          "type": "Image",
+          "x": 194,
+          "y": 237,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 24,
+      "selected": false,
+      "active": false,
+      "markdown": "## Example Using RDO"
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/NjBkffw.png",
+          "type": "Image",
+          "x": 65,
+          "y": 31,
+          "scale": {
+            "x": 0.7198669991687447,
+            "y": 0.7198669991687447,
+            "width": 865.9999999999999,
+            "height": 687.4729842061512
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 25,
+      "selected": false,
+      "active": false,
+      "markdown": ""
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/uG9laCK.png",
+          "type": "Image",
+          "x": 94,
+          "y": 49,
+          "scale": {
+            "x": 0.7175188600167645,
+            "y": 0.7175188600167645,
+            "width": 856,
+            "height": 684.5129924559933
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 26,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/YId5q2O.png",
+          "type": "Image",
+          "x": 72,
+          "y": 26,
+          "scale": {
+            "x": 0.7454242928452579,
+            "y": 0.7454242928452579,
+            "width": 896,
+            "height": 710.3893510815308
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 27,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/WAGEZ65.png",
+          "type": "Image",
+          "x": 28,
+          "y": 46,
+          "scale": {
+            "x": 0.9301745635910225,
+            "y": 0.9301745635910225,
+            "width": 1119,
+            "height": 519.0374064837905
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 28,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/le9lS6z.png",
+          "type": "Image",
+          "x": 46,
+          "y": 36,
+          "scale": {
+            "x": 0.8036758563074352,
+            "y": 0.8036758563074352,
+            "width": 962,
+            "height": 672.6766917293232
+          },
+          "imageType": "PNG",
+          "selected": true
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 29,
+      "selected": true,
+      "active": true
+    },
+    {
       "components": [
         {
           "src": "http://i.imgur.com/KPRdAKM.png",
@@ -1243,7 +1412,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 23,
+      "index": 30,
       "selected": false,
       "active": false,
       "x": 3258,
@@ -1257,12 +1426,12 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 24,
+      "index": 31,
       "selected": false,
       "active": false,
       "x": 3533,
       "y": 1036,
-      "markdown": "## Community\n\n* 4+ years old\n* 250 IRC users on *#theforeman*\n* 60 IRC developers on *#theforeman-dev*\n* 140+ code contributers, Thanks!\n* 15+ translators for 6+ languages\n* ~800 users on foreman-users list\n* ~developers on foreman-dev list\n"
+      "markdown": "## Community\n\n* 4+ years old\n* 260 IRC users on *#theforeman*\n* 60 IRC developers on *#theforeman-dev*\n* 145+ code contributers, Thanks!\n* 15+ translators for 6+ languages\n* ~850 users on foreman-users list\n* ~270 developers on foreman-dev list\n"
     },
     {
       "components": [],
@@ -1271,7 +1440,7 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 25,
+      "index": 32,
       "selected": false,
       "active": false,
       "markdown": "## Some of Foreman's users\n\n* CERN\n* SpaceX\n* BBC\n* Mozilla\n* Citrix\n* Erocson\n* Symantec\n* DHL\n",
@@ -1285,117 +1454,42 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "index": 26,
+      "index": 33,
       "selected": false,
       "active": false,
       "x": 4062,
       "y": 1038,
       "markdown": "## Get Started!\n\n* Quick-start guide on theforeman.org\n* Quick-start video series\n* foreman-users on googlegroups.com\n* *#theforeman* on FreeNode\n\n"
+    },
+    {
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 34,
+      "selected": false,
+      "active": false,
+      "markdown": "# END!\n"
     }
   ],
   "background": "bg-custom-f2f2f2",
   "activeSlide": {
     "components": [
       {
-        "TextBox": {},
-        "x": 339,
-        "y": 92,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 72,
-        "text": "Foreman is<br>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 211,
-        "y": 213,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 36,
-        "text": "<div style=\"text-align: center;\">A complete life cycle management tool</div><div style=\"text-align: center;\">&nbsp;for physical and virtual servers</div>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 59,
-        "y": 554,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 48,
-        "text": "<font>Provisioning</font>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 365,
-        "y": 554,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 48,
-        "text": "<font>Configuration</font>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 705,
-        "y": 554,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 48,
-        "text": "<font>Monitoring</font>",
-        "selected": false
-      },
-      {
-        "src": "http://i.imgur.com/A4X7ZeR.png",
+        "src": "http://i.imgur.com/le9lS6z.png",
         "type": "Image",
-        "x": 759,
-        "y": 380,
+        "x": 46,
+        "y": 36,
         "scale": {
-          "x": 1,
-          "y": 1
+          "x": 0.8036758563074352,
+          "y": 0.8036758563074352,
+          "width": 962,
+          "height": 672.6766917293232
         },
         "imageType": "PNG",
-        "selected": false
-      },
-      {
-        "src": "http://i.imgur.com/PHO9eX1.png",
-        "type": "Image",
-        "x": 444,
-        "y": 381,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "imageType": "PNG",
-        "selected": false
-      },
-      {
-        "src": "http://i.imgur.com/XDzagaX.png",
-        "type": "Image",
-        "x": 123,
-        "y": 380,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "imageType": "PNG",
-        "selected": false
+        "selected": true
       }
     ],
     "z": 0,
@@ -1403,12 +1497,9 @@
     "rotateX": 0,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 2,
+    "index": 29,
     "selected": true,
-    "active": true,
-    "markdown": "",
-    "x": 1120,
-    "y": 200
+    "active": true
   },
   "fileName": "Foreman",
   "surface": "img:http://i.imgur.com/RAwUpht.png",
@@ -1422,7 +1513,5 @@
         "style": "#f2f2f2"
       }
     ]
-  },
-  "overviewX": 2310.5,
-  "overviewY": 633
+  }
 }
